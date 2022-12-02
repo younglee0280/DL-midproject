@@ -29,6 +29,7 @@ https://0goodmorning.tistory.com/60
 #### 1일차 : 전래동화에 어울리는 학습 데이터 찾기 + KoGTP2 모델 공부
 #### 2일차 : KoGTP 와 StableDiffusion 모델을 사용하여 텍스트와 이미지 생성
 #### 3일차 : 분석결과 확인 및 공부
+![image](https://user-images.githubusercontent.com/111736134/205229806-fcd07371-3ba4-455b-9ad4-f543f0019a3b.png)
 
 
 
@@ -36,8 +37,17 @@ https://0goodmorning.tistory.com/60
 
 
 ###참고자료
+<br></br>
+
+
 고전소설 출처 [https://nalsh430.tistory.com/22](https://nalsh430.tistory.com/22)
+<br></br>
+
+
 참여형 동화 서비스 - NLP(KoGPT2) [https://gyong0117.tistory.com/50]
+<br></br>
+
+
 KoGPT2novel - [https://github.com/ttop32/KoGPT2novel]
 
 
