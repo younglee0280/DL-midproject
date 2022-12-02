@@ -23,10 +23,16 @@ https://colab.research.google.com/drive/1B_fRArLVGwlIh1tj1f6uiDxnU596BC32?usp=sh
 https://0goodmorning.tistory.com/60
 
 
+<br></br>
+
+
 #### 1일차 : 전래동화에 어울리는 학습 데이터 찾기 + KoGTP2 모델 공부
 #### 2일차 : KoGTP 와 StableDiffusion 모델을 사용하여 텍스트와 이미지 생성
 #### 3일차 : 분석결과 확인 및 공부
 
+
+
+<br></br>
 
 
 ###참고자료
