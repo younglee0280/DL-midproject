@@ -10,6 +10,8 @@
 - :smile: 이은지
 - :smile: 이해민
 
+<br></br>
+
 ## 코랩
 https://colab.research.google.com/drive/1B_fRArLVGwlIh1tj1f6uiDxnU596BC32?usp=sharing
 
@@ -32,13 +34,10 @@ https://0goodmorning.tistory.com/60
 ![image](https://user-images.githubusercontent.com/111736134/205229806-fcd07371-3ba4-455b-9ad4-f543f0019a3b.png)
 
 
-
 <br></br>
 
 
-###참고자료
-<br></br>
-
+## 참고자료
 
 고전소설 출처 [https://nalsh430.tistory.com/22](https://nalsh430.tistory.com/22)
 <br></br>
